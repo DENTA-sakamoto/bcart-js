@@ -1,1 +1,1 @@
-console.log("hello main.js 読み込まれました!);
+console.log("main.js loaded");
